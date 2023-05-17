@@ -1,0 +1,27 @@
+﻿using Common.Constants;
+using Infrastructure.Persistence.Contexts;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
+using Common.Model;
+using WebApi.Middlewares;
+
+namespace WebApi.Extensions
+{
+    public static class AppExtensions
+    {
+        public static void UseSwaggerExtension(this IApplicationBuilder app)
+        {
+            app.UseSwagger();
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "Application.WebApi"); });
+        }
+
+        public static void UseErrorHandlingMiddleware(this IApplicationBuilder app)
+        {
+            app.UseMiddleware<ErrorHandlerMiddleware>();
+        }
+    }
+}

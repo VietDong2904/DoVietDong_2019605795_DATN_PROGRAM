@@ -1,0 +1,206 @@
+<section id="page-header">
+    <h2>#checkout</h2>
+    <p>The last step to complete your purchases</p>
+</section>
+
+<main class="main">
+    <div class="page-header text-center" style="background-image: url('assets/images/page-header-bg.jpg')">
+        <div class="container">
+        </div><!-- End .container -->
+    </div><!-- End .page-header -->
+    
+    <div class="page-content">
+        <div class="checkout">
+            <div class="container mb-5">
+                <form action="#">
+                    <div class="row">
+                        <div class="col-lg-9 mt-5">
+                            <div class="p-3" style="border: 1px solid #088178;" >
+                                <form nz-form [formGroup]="form" (ngSubmit)="save()">
+                                    <div nz-row>
+                                      <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+                                        <nz-form-item>
+                                          <nz-form-label [nzSm]="6" [nzXs]="24" nzRequired nzFor="code">Fullname</nz-form-label>
+                                          <nz-form-control [nzSm]="17" [nzXs]="24" nzErrorTip="Fullname can not be empty!">
+                                            <input nzSize="large"  nz-input formControlName="name" id="name" placeholder="Enter your fullname" />
+                                          </nz-form-control>
+                                        </nz-form-item>
+                                      </div>
+                    
+                                      <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+                                        <nz-form-item>
+                                            <nz-form-label [nzSm]="6" [nzXs]="24" nzRequired nzFor="name">Email</nz-form-label>
+                                            <nz-form-control [nzSm]="17" [nzXs]="24" nzErrorTip="Email can not be empty!">
+                                              <input nzSize="large" nz-input formControlName="email" id="email" placeholder="Enter your email" />
+                                            </nz-form-control>
+                                          </nz-form-item>
+                                    </div>
+                                    <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+                                      <nz-form-item>
+                                          <nz-form-label [nzSm]="6" [nzXs]="24" nzRequired nzFor="phoneNumber">Phone number</nz-form-label>
+                                          <nz-form-control  [nzSm]="17" [nzXs]="24" nzErrorTip="Phone number can not be empty!">
+                                            <input nzSize="large" type="text" nz-input formControlName="phoneNumber" id="phoneNumber" placeholder="Enter your phone number" />
+                                          </nz-form-control>
+                                        </nz-form-item>
+                                  </div>
+                                      <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+                                        <nz-form-item>
+                                          <nz-form-label [nzSm]="6" [nzXs]="24" nzRequired nzFor="city">City</nz-form-label>
+                                          <nz-form-control [nzSm]="17" [nzXs]="24" nzErrorTip="City can not be empty!">
+                                            <nz-select nzSize="large"
+                                              nzShowSearch
+                                              nzMode="default"
+                                              (ngModelChange)="changeCity($event)"
+                                              nzPlaceHolder="Select a city"
+                                              formControlName="city"
+                                              [nzOptions]="listCity"
+                                            >
+                                            </nz-select>
+                                          </nz-form-control>
+                                        </nz-form-item>
+                                    </div>
+                                      <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+    
+                                        <nz-form-item>
+                                          <nz-form-label [nzSm]="6" [nzXs]="24" nzRequired nzFor="district">District </nz-form-label>
+                                          <nz-form-control [nzSm]="17" [nzXs]="24" nzErrorTip="District can not be empty!">
+                                            <nz-select nzSize="large"
+                                              nzShowSearch
+                                              [nzDisabled]="listDistrict.length === 0"
+                                              nzMode="default"
+                                              nzPlaceHolder="Select a district"
+                                              (ngModelChange)="changeDistrict($event)"
+                                              formControlName="district"
+                                              [nzOptions]="listDistrict"
+                                            >
+                                            </nz-select>
+                                          </nz-form-control>
+                                        </nz-form-item>
+                                      </div>
+                                      <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+    
+                                        <nz-form-item>
+                                          <nz-form-label [nzSm]="6" [nzXs]="24" nzRequired nzFor="commune">Commune</nz-form-label>
+                                          <nz-form-control [nzSm]="17" [nzXs]="24" nzErrorTip="Commune can not be empty!">
+                                            <nz-select nzSize="large"
+                                              nzShowSearch
+                                              [nzDisabled]="listCommune.length === 0"
+                                              nzMode="default"
+                                              nzPlaceHolder="Select a commune"
+                                              formControlName="commune"
+                                              [nzOptions]="listCommune"
+                                            >
+                                            </nz-select>
+                                          </nz-form-control>
+                                        </nz-form-item>
+                                      </div>
+                                      <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+    
+                                        <nz-form-item>
+                                          <nz-form-label [nzSm]="6" [nzXs]="24" nzRequired nzFor="metaTitle">Address detail </nz-form-label>
+                                          <nz-form-control [nzSm]="17" [nzXs]="24" nzErrorTip="Address detail can not be empty!">
+                                            <input nzSize="large" nz-input formControlName="addressDetail" id="addressDetail" placeholder="Enter your address detail" />
+                                          </nz-form-control>
+                                        </nz-form-item>
+                                      </div>
+                                      <div nz-col [nzSm]="24" [nzMd]="24" [nzLg]="24">
+    
+                                        <nz-form-item>
+                                          <nz-form-label [nzSm]="6" [nzXs]="24" nzFor="metaTitle">Note </nz-form-label>
+                                          <nz-form-control [nzSm]="17" [nzXs]="24">
+                                            <textarea nzSize="large" rows="4" nz-input formControlName="note"></textarea>
+                                          </nz-form-control>
+                                        </nz-form-item>
+                                      </div>
+                                    </div>
+                                  </form>
+                            </div>
+                        </div><!-- End .col-lg-9 -->
+                        <aside class="col-lg-3">
+                            <div class="summary p-3 mt-5 " style="border: 1px solid #088178;" >
+                                <h4 class="summary-title">Your purchase</h4><!-- End .summary-title -->
+                                <nz-divider></nz-divider>
+                                <table class="table table-summary">
+                                    <thead>
+                                        <tr>
+                                            <th>Product</th>
+                                            <th>Subtotal</th>
+                                        </tr>
+                                    </thead>
+
+                                    <tbody>
+                                        <tr *ngFor="let item of listCart">
+                                            <td>
+                                                <a href="javascript:void(0)" (click)="viewDetail(item.id)">{{item.name}}</a>
+                                            </td>
+                                            <td>
+                                               {{item.count}} x <span *ngIf="item.discountDefault > 0" class="product-old-price">{{item.amoutDefault | currency:'VND'}}</span> 
+                     <span> {{(item.amoutDefault - item.discountDefault) | currency:'VND'}}</span>
+                     <br>
+                     =
+                     <span>{{item.subTotal| currency:'VND'}}</span>
+                                            </td>
+                                        </tr>
+                                        <tr class="summary-subtotal">
+                                            <td>Total price:</td>
+                                            <td>{{total| currency:'VND'}}</td>
+                                        </tr><!-- End .summary-subtotal -->
+                                        <tr>
+                                            <td>Shipping:</td>
+                                            <td>Free</td>
+                                        </tr>
+                                        <tr class="summary-total">
+                                            <td>Total:</td>
+                                            <td>{{total| currency:'VND'}}</td>
+                                        </tr><!-- End .summary-total -->
+                                    </tbody>
+                                </table><!-- End .table table-summary -->
+
+                                <div class="accordion-summary" id="accordion-ment">
+
+                                    <div class="card">
+                                        <div class="card-header" id="heading-3">
+                                            <h2 class="card-title">
+                                                <a class="collapsed" role="button" (click)="changePaymentType(0)" data-toggle="collapse" href="#collapse-3" aria-expanded="false" aria-controls="collapse-3">
+                                                    Pay when ship
+                                                </a>
+                                            </h2>
+                                        </div><!-- End .card-header -->
+                                        <div id="collapse-3" class="collapse" aria-labelledby="heading-3" data-parent="#accordion-ment">
+                                            <div class="card-body">Free shipping for every order. 
+                                            </div><!-- End .card-body -->
+                                        </div><!-- End .collapse -->
+                                    </div><!-- End .card -->
+
+                                    <div class="card">
+                                        <div class="card-header" id="heading-4">
+                                            <h2 class="card-title">
+                                                <a class="collapsed" (click)="changePaymentType(1)"  role="button" data-toggle="collapse" href="#collapse-4" aria-expanded="false" aria-controls="collapse-4">
+                                                  Paypal <small class="float-right pal-link">What is Paypal?</small>
+                                                </a>
+                                            </h2>
+                                        </div><!-- End .card-header -->
+                                        <div id="collapse-4" class="collapse" aria-labelledby="heading-4" data-parent="#accordion-ment">
+                                            <div class="card-body">
+                                              Paypal is simply understood as an intermediary service used to pay and transfer money internationally over the Internet. With Paypal, you can pay when shopping online abroad or receive payments from abroad to send to Vietnam..
+                                            </div><!-- End .card-body -->
+                                        </div><!-- End .collapse -->
+                                        <div *ngIf="paymentType === 1 && form.valid" class="col-12">
+                                        <ngx-paypal [config]="payPalConfig"></ngx-paypal>
+                                        </div>
+
+                                    </div><!-- End .card -->
+                                </div><!-- End .accordion -->
+
+                                <button [disabled]="listCart.length === 0 && paymentType === null" (click)="save()" type="submit" class="btn btn-outline-primary-2 btn-order btn-block" >
+                                    Order
+                                </button>
+                            </div><!-- End .summary -->
+                        </aside><!-- End .col-lg-3 -->
+                    </div><!-- End .row -->
+                </form>
+            </div><!-- End .container -->
+        </div><!-- End .checkout -->
+    </div><!-- End .page-content -->
+</main><!-- End .main -->
+<p-toast></p-toast>

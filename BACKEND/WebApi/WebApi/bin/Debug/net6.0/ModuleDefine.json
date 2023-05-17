@@ -1,0 +1,87 @@
+﻿[
+  {
+    "Key": "DmNgonNgu",
+    "Value": [
+      {
+        "Key": "post:Create",
+        "Value": "Thêm mới ngôn ngữ"
+      },
+      {
+        "Key": "put:Update",
+        "Value": "Cập nhật ngôn ngữ"
+      },
+      {
+        "Key": "delete:Delete",
+        "Value": "Xóa ngôn ngữ"
+      }
+    ]
+  },
+  {
+    "Key": "DmLoaiVb",
+    "Value": [
+      {
+        "Key": "post:Create",
+        "Value": "Thêm mới loại văn bản"
+      },
+      {
+        "Key": "put:Update",
+        "Value": "Cập nhật loại văn bản"
+      },
+      {
+        "Key": "delete:Delete",
+        "Value": "Xóa loại văn bản"
+      }
+    ]
+  },
+  {
+    "Key": "DmLinhVuc",
+    "Value": [
+      {
+        "Key": "post:Create",
+        "Value": "Thêm mới lĩnh vực"
+      },
+      {
+        "Key": "put:Update",
+        "Value": "Cập nhật lĩnh vực"
+      },
+      {
+        "Key": "delete:Delete",
+        "Value": "Xóa lĩnh vực"
+      }
+    ]
+  },
+  {
+    "Key": "DmNhomCoQuanBanHanh",
+    "Value": [
+      {
+        "Key": "post:Create",
+        "Value": "Thêm mới nhóm cơ quan ban hành"
+      },
+      {
+        "Key": "put:Update",
+        "Value": "Cập nhật nhóm cơ quan ban hành"
+      },
+      {
+        "Key": "delete:Delete",
+        "Value": "Xóa nhóm cơ quan ban hành"
+      }
+    ]
+  },
+  {
+    "Key": "DmCoQuanBanHanh",
+    "Value": [
+      {
+        "Key": "post:Create",
+        "Value": "Thêm mới cơ quan ban hành"
+      },
+      {
+        "Key": "put:Update",
+        "Value": "Cập nhật cơ quan ban hành"
+      },
+      {
+        "Key": "delete:Delete",
+        "Value": "Xóa cơ quan ban hành"
+      }
+    ]
+  }
+]

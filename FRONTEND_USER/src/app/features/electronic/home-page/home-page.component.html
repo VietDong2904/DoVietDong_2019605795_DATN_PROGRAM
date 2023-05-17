@@ -1,0 +1,122 @@
+<section id="hero">
+    <h4>Trade-in-order </h4>
+    <h2>Super value deals</h2>
+    <h1>On all Products</h1>
+    <p>Save more will coupons & up to 70% off!</p>
+    <button><a [routerLink]="['/shop']" href="javascript:void(0)">Shop Now</a></button>
+</section>
+<app-benefits></app-benefits>
+
+<section id="product1" class="section-p1 container">
+    <h2>Featured Products</h2>
+    <p>Some products so hot right now in CARA</p>
+    <div class="pro-container row">
+        <div *ngFor="let item of listFeaturedProd" class="col-lg-3 d-flex">
+            <div class="pro">
+                <a  (click)="viewDetail(item.id)"  href="javascript:void(0)">
+                    <div class="pro-img">
+                        <img [src]="item.urlImageActive" alt="">
+                        <div *ngIf="(((100-((item.amoutDefault-item.discountDefault)/item.amoutDefault)*100).toFixed())) !== '0'" class="pro-sale-tag">-{{(((100-((item.amoutDefault-item.discountDefault)/item.amoutDefault)*100).toFixed()))}}%</div>
+                    </div>
+                </a>
+                
+    
+                <div class="des">
+                    <span>{{item.categoryString}}</span>
+                    <h4>{{item.name}}</h4>
+                    <div class="d-flex mt-1 justify-content-between align-items-center">
+                        <div class="d-flex">
+                            <span style="font-size: 15px;" *ngFor="let number of [1, 2, 3, 4, 5]" nz-icon nzType="star" nzTheme="twotone" [nzTwotoneColor]="item.rating >= number? '#ff8000': '#ccc'" class="mr-1"></span>
+                        </div>
+                        <span class="product-sold-view">{{item.sold}} products sold</span>
+                    </div>
+                    
+                    
+                    <p>{{item.amoutDefault-item.discountDefault | currency: 'VND'}}</p>
+                
+                </div>
+    
+                <div class="cart" (click)="viewDetail(item.id)">
+                    <a href="#"><i nz-icon nzType="shopping-cart" nzTheme="outline"></i></a>
+                    
+               </div>
+            </div>
+        </div>
+        
+    </div>
+</section>
+<section id="banner" class="section-m1">
+    <h4>Repair Service</h4>
+    <h2>Up to <span> 70% </span> - All T-Shirts & Accessories</h2>
+    <button class="normal">Explore More</button>
+  </section>
+
+  <section id="product1" class="section-p1 container">
+    <h2>Best Review Products</h2>
+    <p>New products so hot right now in CARA</p>
+    <div class="pro-container row">
+        <div *ngFor="let item of listBestReviewProduct" class=" col-lg-3 d-flex">
+            <div class="pro">
+                <a  (click)="viewDetail(item.id)"  href="javascript:void(0)">
+                    <img [src]="item.urlImageActive" alt="">
+                </a>
+                
+    
+                <div class="des">
+                    <span>{{item.categoryString}}</span>
+                    <h4>{{item.name}}</h4>
+                    <div class="d-flex mt-1 justify-content-between align-items-center">
+                        <div class="d-flex">
+                            <span style="font-size: 15px;" *ngFor="let number of [1, 2, 3, 4, 5]" nz-icon nzType="star" nzTheme="twotone" [nzTwotoneColor]="item.rating >= number? '#ff8000': '#ccc'" class="mr-1"></span>
+                        </div>
+                        <span class="product-sold-view">{{item.sold}} products sold</span>
+                    </div>
+                    
+                    <p>{{item.amoutDefault-item.discountDefault | currency: 'VND'}}</p>
+                </div>
+    
+               <div class="cart" (click)="viewDetail(item.id)">
+                    <a href="#"><i nz-icon nzType="shopping-cart" nzTheme="outline"></i></a>
+               </div>
+               
+            </div>
+            
+        </div>
+        
+    </div>
+</section>
+
+<section id="sm-banner" class="section-p1">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="banner-box col-md-6">
+                <h4>crazy deals</h4>
+                <h2>buy 1 get 1</h2>
+                <span>The best classic dress is on sale at cara</span>
+                <button class="white">Learn more</button>
+            </div>
+            <div class="banner-box col-md-6 banner-box2">
+                <h4>summer collection</h4>
+                <h2>up coming!</h2>
+                <span>Some product you can looking for in this summer</span>
+                <button class="white">Collection</button>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="banner3">
+       <div class="banner-box">
+           <h2>SEASON SALE</h2>
+           <h3>Winter Collection -50% OFF</h3>
+       </div>
+       <div class="banner-box banner-box2">
+           <h2>SEASON SALE</h2>
+           <h3>Winter Collection -50% OFF</h3>
+       </div>
+       <div class="banner-box banner-box3">
+           <h2>SEASON SALE</h2>
+           <h3>Winter Collection -50% OFF</h3>
+       </div>
+</section>

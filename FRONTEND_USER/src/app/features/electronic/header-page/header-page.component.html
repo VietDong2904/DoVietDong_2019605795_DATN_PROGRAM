@@ -1,0 +1,136 @@
+<div class="header-group">
+    <div class="nav section-p2">
+        <div class="nav-left">
+            <span>Tel: (+84) 0964496713</span>
+        </div>
+        <div class="nav-right">
+            <a *ngIf="!isLogin" href="#signin-modal" data-toggle="modal">SignIn/ SignUp</a>
+            <a *ngIf="isLogin" [routerLink]="['/account-detail']" href="javascript:void(0)" > <i class="pi pi-user"></i> Welcome, {{user.name}}</a>
+            <a *ngIf="isLogin" (click)="logout()" href="javascript:void(0)">Logout</a>
+            
+        </div>
+    </div>
+    <section id="header">
+        <a href="#"><img src="assets/images/logo.png" class="logo" alt=""></a>
+        <div class="header-cate-search">
+            <div class="category">
+                <span>Categories </span>
+                <i class="pi pi-chevron-right"></i>
+                <div class="cate-result">
+                    <nav class="side-nav">
+                        <ng-template #categoryTemplateRef let-data="data">
+                          <ul>
+                            <ng-template ngFor let-child [ngForOf]="data.children">
+                              <li class="cate-item">
+                                <a style="color: #000" class="cate-child" href="javascript:void(0)"  (click)="redirectSearch(child.id,1)">
+                                  {{ child.name }}                      <i *ngIf="child.children && child.children.length" class="icon-angle-right"></i>
+          
+                                </a>
+                                
+                                <ng-template
+                                  *ngIf="child.children && child.children.length"
+                                  [ngTemplateOutlet]="categoryTemplateRef"
+                                  [ngTemplateOutletContext]="{ data: child }"
+                                ></ng-template>
+                              </li>
+                            </ng-template>
+                          </ul>
+                        </ng-template>
+                        <ul  class="cate-list menu-vertical sf-arrows">
+                          <li class="cate-item" *ngFor="let item of data">
+                              <a style="color: #000" href="javascript:void(0)" (click)="redirectSearch(item.id,1)">{{ item.name }} 
+                                <i *ngIf="item.children && item.children.length" class="icon-angle-right"></i>
+                              </a>
+                            <ng-template
+                              *ngIf="item.children && item.children.length"
+                              [ngTemplateOutlet]="categoryTemplateRef"
+                              [ngTemplateOutletContext]="{ data: item }"
+                            ></ng-template>
+                          </li>
+                        </ul>
+                        <!-- <ul class="menu-vertical sf-arrows">
+                                          <li class="item-lead"><a href="#">Daily offers</a></li>
+                                          <li class="item-lead"><a href="#">Gift Ideas</a></li>
+                                          <li><a href="#">Beds</a></li>
+                                          <li><a href="#">Lighting</a></li>
+                                          <li><a href="#">Sofas & Sleeper sofas</a></li>
+                                          <li><a href="#">Storage</a></li>
+                                          <li><a href="#">Armchairs & Chaises</a></li>
+                                          <li><a href="#">Decoration </a></li>
+                                          <li><a href="#">Kitchen Cabinets</a></li>
+                                          <li><a href="#">Coffee & Tables</a></li>
+                                          <li><a href="#">Outdoor Furniture </a></li>
+                                      </ul> -->
+                        <!-- End .menu-vertical -->
+                      </nav>
+                </div>
+            </div>
+            <div class="search-group">
+                <input  type="search"
+                placeholder="Enter to search..."
+                [ngModelOptions]="{ standalone: true }"
+                [(ngModel)]="textSearch"
+                id="text-search-box"
+                (keyup.enter)="enterSearch()"
+                (ngModelChange)="changeText()"
+                (click)="changeText()"
+                required
+                #search
+                autocomplete="off" >
+                <i class="pi pi-search"></i>
+                <div class="search-infor" [ngStyle]="{ display: isChangeText === true ? 'block' : 'none'}">
+                    <div *ngIf="listProd.length === 0" class="row">
+                        <div class="col-md-12 item-center" style="height: 300px">
+                          <nz-empty
+                            class="empty-grid"
+                            [nzNotFoundContent]="'No results'"
+                          ></nz-empty>
+                        </div>
+                        <div
+                          *ngIf="isLoadingFilter"
+                          class="col-md-12 item-center"
+                          style="height: 300px"
+                        >
+                          <nz-spin nzSimple></nz-spin>
+                        </div>
+                      </div>
+                      <div
+                          style=" cursor: pointer"
+                          (click)="viewDetail(item.id)"
+                          class=" d-flex  product-search p-1"
+                          *ngFor="let item of listProd"
+                      >
+                        <div class="me-1">
+                          <img
+                            [src]="baseFile + item.attachments[0]"
+                            width="70px"
+                            height="70px"
+                            alt=""
+                          />
+                        </div>
+                        <div >
+                              <p>{{ item.name }}</p>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <ul id="navbar">
+                <li><a  href="javascript;void:(0)" [routerLinkActiveOptions]="{exact: true}" [routerLink]="['/']" [routerLinkActive]="'router-link-active'">Home</a></li>
+                <li><a href="javascript:void(0)" [routerLink]="['/shop']" [routerLinkActive]="'router-link-active'">Shop</a></li>
+                <!-- <li><a routerLink="blog">Blog</a></li> -->
+                <li><a href="javascript:void(0)" [routerLink]="['/about-us']" [routerLinkActive]="'router-link-active'">About</a></li>
+                <li><a href="javascript:void(0)" [routerLink]="['/contact']" [routerLinkActive]="'router-link-active'">Contact</a></li>
+                <li   id="lg-bag" class="text-white" style="cursor: pointer;">
+                    <nz-badge [nzCount]="listCart.length"><a href="javascript:void(0)" [routerLink]="['/cart']" [routerLinkActive]="'router-link-active'"><i style="font-size: 20px;" nz-icon nzType="shopping" nzTheme="outline"></i></a></nz-badge>
+                    </li>
+                <i id="close" class="fa-solid fa-xmark"></i>
+            </ul>
+        </div>
+        <div id="mobile">
+            <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="bar" class="fa-solid fa-bars"></i>
+        </div>
+      </section>
+</div>

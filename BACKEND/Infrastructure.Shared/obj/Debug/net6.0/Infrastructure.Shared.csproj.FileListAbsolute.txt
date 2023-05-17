@@ -1,0 +1,36 @@
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.deps.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\refint\Infrastructure.Shared.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.deps.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\refint\Infrastructure.Shared.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.deps.json
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.dll
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\bin\Debug\net6.0\Infrastructure.Shared.pdb
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.AssemblyInfo.cs
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.dll
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\refint\Infrastructure.Shared.dll
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\Infrastructure.Shared.pdb
+D:\DATN_PROGRAM\BACKEND\Infrastructure.Shared\obj\Debug\net6.0\ref\Infrastructure.Shared.dll

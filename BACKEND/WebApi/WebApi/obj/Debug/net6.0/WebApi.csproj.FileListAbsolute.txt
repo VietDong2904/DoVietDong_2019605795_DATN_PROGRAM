@@ -1,0 +1,1062 @@
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.Collection.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\CertificateManager.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MailKit.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MediatR.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MessagePack.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MimeKit.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Process.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Thread.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Application.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Common.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Domain.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Persistence.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Shared.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Application.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Common.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Persistence.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Shared.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Domain.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ModuleDefine.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ModuleDefine.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.Collection.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\CertificateManager.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MailKit.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MediatR.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MessagePack.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MimeKit.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Process.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Thread.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Application.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Common.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Domain.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Persistence.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Shared.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Application.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Persistence.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Shared.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Common.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Domain.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ModuleDefine.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\appsettings.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.Collection.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\CertificateManager.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MailKit.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MediatR.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MessagePack.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Build.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\MimeKit.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Common.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Process.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Enrichers.Thread.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Application.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Common.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Domain.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Persistence.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Shared.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Application.pdb
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Persistence.pdb
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Infrastructure.Shared.pdb
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Common.pdb
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\bin\Debug\net6.0\Domain.pdb
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\DATN_PROGRAM\BACKEND\WebApi\WebApi\obj\Debug\net6.0\ref\WebApi.dll

@@ -1,0 +1,45 @@
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Application.deps.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Application.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Application.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Domain.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Domain.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\refint\Application.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\ref\Application.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Application.deps.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Application.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Application.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Domain.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\bin\Debug\net6.0\Domain.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\refint\Application.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\Application.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Application\obj\Debug\net6.0\ref\Application.dll
+D:\DATN_PROGRAM\BACKEND\Application\bin\Debug\net6.0\Application.deps.json
+D:\DATN_PROGRAM\BACKEND\Application\bin\Debug\net6.0\Application.dll
+D:\DATN_PROGRAM\BACKEND\Application\bin\Debug\net6.0\Application.pdb
+D:\DATN_PROGRAM\BACKEND\Application\bin\Debug\net6.0\Domain.dll
+D:\DATN_PROGRAM\BACKEND\Application\bin\Debug\net6.0\Domain.pdb
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.dll
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\refint\Application.dll
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\Application.pdb
+D:\DATN_PROGRAM\BACKEND\Application\obj\Debug\net6.0\ref\Application.dll

@@ -1,0 +1,36 @@
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\bin\Debug\net6.0\Domain.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\bin\Debug\net6.0\Domain.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.pdb
+D:\LEARNSPACE\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\bin\Debug\net6.0\Domain.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\bin\Debug\net6.0\Domain.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\Domain.pdb
+D:\New folder (2)\DATN\DATN_HAUI\BACKEND\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\DATN_PROGRAM\BACKEND\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\DATN_PROGRAM\BACKEND\Domain\bin\Debug\net6.0\Domain.dll
+D:\DATN_PROGRAM\BACKEND\Domain\bin\Debug\net6.0\Domain.pdb
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\Domain.dll
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\Domain.pdb
+D:\DATN_PROGRAM\BACKEND\Domain\obj\Debug\net6.0\ref\Domain.dll

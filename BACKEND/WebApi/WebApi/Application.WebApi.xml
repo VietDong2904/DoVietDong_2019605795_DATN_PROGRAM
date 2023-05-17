@@ -1,0 +1,718 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.AccountController.Login(Infrastructure.Persistence.Businesses.Account.LoginModel)">
+            <summary>
+            Đăng nhập và trả về token
+            </summary>
+            <param name="login"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.AccountController.Register(Infrastructure.Persistence.Businesses.Account.UserModel)">
+            <summary>
+            Tạo mới tài khoản
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.AccountController.UpdatePassword(Infrastructure.Persistence.Businesses.Account.UserUpdatePasswordModel)">
+            <summary>
+            Thay đổi mật khẩu người dùng
+            </summary> 
+            <param name="model">Thông tin người dùng cần cập nhật mật khẩu</param>
+            <returns>Id người dùng đã cập nhật thành công</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.AccountController.ForgotPassword(System.String)">
+            <summary>
+            Lấy lại mật khẩu người dùng
+            </summary> 
+            <param name="email">Thông tin người dùng cần cập nhật mật khẩu</param>
+            <returns>Id người dùng đã cập nhật thành công</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.AddressController.GetCity">
+            <summary>
+            lay DS thanh pho
+            </summary>
+            <returns>Model tài khoản</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.AddressController.GetDistrict(System.String)">
+            <summary>
+            lay DS quan huyen
+            </summary>
+            <returns>Model tài khoản</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.AddressController.GetCommune(System.String)">
+            <summary>
+            lay DS xa phuong
+            </summary>
+            <returns>Model tài khoản</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.CartController.Update(Infrastructure.Persistence.Businesses.Cart.CartModel)">
+            <summary>
+            Cập nhật giỏ hàng
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.CartController.GetById">
+            <summary>
+            Lấy thông tin sản phẩm giỏ hàng theo id
+            </summary> 
+            <returns>Thông tin chi tiết quyền</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.CategoryController.Create(Infrastructure.Persistence.Businesses.Category.CategoryBaseModel)">
+             <summary>
+             Thêm mới loại sản phẩm
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 {
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }
+             </remarks>
+             <param name="model">Thông tin loại sản phẩm</param>
+             <returns>Id loại sản phẩm</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.CategoryController.Update(Infrastructure.Persistence.Businesses.Category.CategoryBaseModel)">
+             <summary>
+             Cập nhật loại sản phẩm
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }   
+             </remarks>
+             <param name="model">Thông tin loại sản phẩm cần cập nhật</param>
+             <returns>Id loại sản phẩm đã cập nhật thành công</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.CategoryController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin loại sản phẩm theo id
+            </summary> 
+            <param name="id">Id loại sản phẩm</param>
+            <returns>Thông tin chi tiết loại sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.CategoryController.Filter(Infrastructure.Persistence.Businesses.Category.CategoryFilterModel)">
+             <summary>
+             Lấy danh sách loại sản phẩm theo điều kiện lọc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "textSearch": "",
+                     "pageSize": 20,
+                     "pageNumber": 1
+                 }
+             </remarks>
+             <param name="filter">Điều kiện lọc</param>
+             <returns>Danh sách loại sản phẩm</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.CategoryController.Delete(System.Collections.Generic.List{System.Guid})">
+             <summary>
+             Xóa loại sản phẩm
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 [
+                     "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                 ]
+             </remarks>
+             <param name="listId">Danh sách Id loại sản phẩm</param>
+             <returns>Danh sách kết quả xóa</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.CategoryController.GetListCombobox(System.Int32,System.String)">
+            <summary>
+            Lấy danh sách loại sản phẩm cho combobox
+            </summary> 
+            <param name="count">số bản ghi tối đa</param>
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách loại sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ColorController.Create(Infrastructure.Persistence.Businesses.Color.ColorBaseModel)">
+             <summary>
+             Thêm mới màu sắc
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 {
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }
+             </remarks>
+             <param name="model">Thông tin màu sắc</param>
+             <returns>Id màu sắc</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ColorController.Update(Infrastructure.Persistence.Businesses.Color.ColorBaseModel)">
+             <summary>
+             Cập nhật màu sắc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }   
+             </remarks>
+             <param name="model">Thông tin màu sắc cần cập nhật</param>
+             <returns>Id màu sắc đã cập nhật thành công</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ColorController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin màu sắc theo id
+            </summary> 
+            <param name="id">Id màu sắc</param>
+            <returns>Thông tin chi tiết màu sắc</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ColorController.Filter(Infrastructure.Persistence.Businesses.Color.ColorFilterModel)">
+             <summary>
+             Lấy danh sách màu sắc theo điều kiện lọc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "textSearch": "",
+                     "pageSize": 20,
+                     "pageNumber": 1
+                 }
+             </remarks>
+             <param name="filter">Điều kiện lọc</param>
+             <returns>Danh sách màu sắc</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ColorController.Delete(System.Collections.Generic.List{System.Guid})">
+             <summary>
+             Xóa màu sắc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 [
+                     "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                 ]
+             </remarks>
+             <param name="listId">Danh sách Id màu sắc</param>
+             <returns>Danh sách kết quả xóa</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ColorController.GetListCombobox(System.Int32,System.String)">
+            <summary>
+            Lấy danh sách màu sắc cho combobox
+            </summary> 
+            <param name="count">số bản ghi tối đa</param>
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách màu sắc</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.OrderController.Create(Infrastructure.Persistence.Businesses.Order.OrderCreateModel)">
+             <summary>
+             Thêm mới đơn đặt
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 {
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }
+             </remarks>
+             <param name="model">Thông tin đơn đặt</param>
+             <returns>Id đơn đặt</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.OrderController.Update(Infrastructure.Persistence.Businesses.Order.OrderUpdateModel)">
+             <summary>
+             Cập nhật đơn đặt
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }   
+             </remarks>
+             <param name="model">Thông tin đơn đặt cần cập nhật</param>
+             <returns>Id đơn đặt đã cập nhật thành công</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.OrderController.GetById(System.Guid,System.String)">
+            <summary>
+            Lấy thông tin đơn đặt theo id
+            </summary> 
+            <param name="id">Id đơn đặt</param>
+            <returns>Thông tin chi tiết đơn đặt</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.OrderController.Filter(Infrastructure.Persistence.Businesses.Order.OrderQueryFilter)">
+             <summary>
+             Lấy danh sách đơn đặt theo điều kiện lọc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "textSearch": "",
+                     "pageSize": 20,
+                     "pageNumber": 1
+                 }
+             </remarks>
+             <param name="filter">Điều kiện lọc</param>
+             <returns>Danh sách đơn đặt</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.OrderController.Delete(System.Collections.Generic.List{System.Guid})">
+             <summary>
+             Xóa đơn đặt
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 [
+                     "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                 ]
+             </remarks>
+             <param name="listId">Danh sách Id đơn đặt</param>
+             <returns>Danh sách kết quả xóa</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.Create(Infrastructure.Persistence.Businesses.Product.ProductBaseModel)">
+             <summary>
+             Thêm mới sản phẩm
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 {
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }
+             </remarks>
+             <param name="model">Thông tin sản phẩm</param>
+             <returns>Id sản phẩm</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.Update(Infrastructure.Persistence.Businesses.Product.ProductBaseModel)">
+             <summary>
+             Cập nhật sản phẩm
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }   
+             </remarks>
+             <param name="model">Thông tin sản phẩm cần cập nhật</param>
+             <returns>Id sản phẩm đã cập nhật thành công</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.GetByCode(System.Guid)">
+            <summary>
+            Lấy thông tin sản phẩm theo id
+            </summary> 
+            <returns>Thông tin chi tiết sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.Filter(Infrastructure.Persistence.Businesses.Product.ProductQueryFilter)">
+             <summary>
+             Lấy danh sách sản phẩm theo điều kiện lọc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "textSearch": "",
+                     "pageSize": 20,
+                     "pageNumber": 1
+                 }
+             </remarks>
+             <param name="filter">Điều kiện lọc</param>
+             <returns>Danh sách sản phẩm</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.Delete(System.Collections.Generic.List{System.Guid})">
+             <summary>
+             Xóa sản phẩm
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 [
+                     "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                 ]
+             </remarks>
+             <param name="listId">Danh sách Id sản phẩm</param>
+             <returns>Danh sách kết quả xóa</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.GetAll(System.String)">
+            <summary>
+            Lấy tất cả danh sách sản phẩm
+            </summary> 
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductController.GetListCombobox(System.Int32,System.String)">
+            <summary>
+            Lấy danh sách sản phẩm cho combobox
+            </summary> 
+            <param name="count">số bản ghi tối đa</param>
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductReviewController.Create(Infrastructure.Persistence.Businesses.ProductReview.ProductReviewCreateModel)">
+             <summary>
+             Thêm mới đánh giá sản phẩm
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 {
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }
+             </remarks>
+             <param name="model">Thông tin đánh giá sản phẩm</param>
+             <returns>Id đánh giá sản phẩm</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductReviewController.CreateMany(System.Collections.Generic.List{Infrastructure.Persistence.Businesses.ProductReview.ProductReviewCreateModel})">
+             <summary>
+             Thêm mới đánh giá sản phẩm theo danh sách
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 [
+                     {
+                         "code": "Code",
+                         "name": "Name",
+                         "status": true,
+                         "description": "Description",
+                         "order": 1
+                     }   
+                 ]
+             </remarks>
+             <param name="list">Danh sách thông tin đánh giá sản phẩm</param>
+             <returns>Danh sách kết quả thêm mới</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductReviewController.Update(Infrastructure.Persistence.Businesses.ProductReview.ProductReviewUpdateModel)">
+             <summary>
+             Cập nhật đánh giá sản phẩm
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }   
+             </remarks>
+             <param name="model">Thông tin đánh giá sản phẩm cần cập nhật</param>
+             <returns>Id đánh giá sản phẩm đã cập nhật thành công</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductReviewController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin đánh giá sản phẩm theo id
+            </summary> 
+            <param name="id">Id đánh giá sản phẩm</param>
+            <returns>Thông tin chi tiết đánh giá sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductReviewController.Filter(Infrastructure.Persistence.Businesses.ProductReview.ProductReviewQueryFilter)">
+             <summary>
+             Lấy danh sách đánh giá sản phẩm theo điều kiện lọc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "textSearch": "",
+                     "pageSize": 20,
+                     "pageNumber": 1
+                 }
+             </remarks>
+             <param name="filter">Điều kiện lọc</param>
+             <returns>Danh sách đánh giá sản phẩm</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.ProductReviewController.GetAll(System.String)">
+            <summary>
+            Lấy tất cả danh sách đánh giá sản phẩm
+            </summary> 
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách đánh giá sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.RoleController.Create(Infrastructure.Persistence.Businesses.Role.RoleBaseModel)">
+             <summary>
+             Thêm mới quyền
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 {
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }
+             </remarks>
+             <param name="model">Thông tin quyền</param>
+             <returns>Id quyền</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.RoleController.Update(Infrastructure.Persistence.Businesses.Role.RoleBaseModel)">
+             <summary>
+             Cập nhật quyền
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }   
+             </remarks>
+             <param name="model">Thông tin quyền cần cập nhật</param>
+             <returns>Id quyền đã cập nhật thành công</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.RoleController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin quyền theo id
+            </summary> 
+            <param name="id">Id quyền</param>
+            <returns>Thông tin chi tiết quyền</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.RoleController.Filter(Infrastructure.Persistence.Businesses.Role.RoleFilterModel)">
+             <summary>
+             Lấy danh sách quyền theo điều kiện lọc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "textSearch": "",
+                     "pageSize": 20,
+                     "pageNumber": 1
+                 }
+             </remarks>
+             <param name="filter">Điều kiện lọc</param>
+             <returns>Danh sách quyền</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.RoleController.Delete(System.Collections.Generic.List{System.Guid})">
+             <summary>
+             Xóa quyền
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 [
+                     "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                 ]
+             </remarks>
+             <param name="listId">Danh sách Id quyền</param>
+             <returns>Danh sách kết quả xóa</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.RoleController.GetListCombobox(System.Int32,System.String)">
+            <summary>
+            Lấy danh sách quyền cho combobox
+            </summary> 
+            <param name="count">số bản ghi tối đa</param>
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách quyền</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.SupplierController.Create(Infrastructure.Persistence.Businesses.Supplier.SupplierBaseModel)">
+             <summary>
+             Thêm mới nhà cung cấp
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 {
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }
+             </remarks>
+             <param name="model">Thông tin nhà cung cấp</param>
+             <returns>Id nhà cung cấp</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.SupplierController.Update(Infrastructure.Persistence.Businesses.Supplier.SupplierBaseModel)">
+             <summary>
+             Cập nhật nhà cung cấp
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+                     "code": "Code",
+                     "name": "Name",
+                     "status": true,
+                     "description": "Description",
+                     "order": 1
+                 }   
+             </remarks>
+             <param name="model">Thông tin nhà cung cấp cần cập nhật</param>
+             <returns>Id nhà cung cấp đã cập nhật thành công</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.SupplierController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin nhà cung cấp theo id
+            </summary> 
+            <param name="id">Id nhà cung cấp</param>
+            <returns>Thông tin chi tiết nhà cung cấp</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.SupplierController.Filter(Infrastructure.Persistence.Businesses.Supplier.SupplierFilterModel)">
+             <summary>
+             Lấy danh sách nhà cung cấp theo điều kiện lọc
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 {
+                     "textSearch": "",
+                     "pageSize": 20,
+                     "pageNumber": 1
+                 }
+             </remarks>
+             <param name="filter">Điều kiện lọc</param>
+             <returns>Danh sách nhà cung cấp</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.SupplierController.Delete(System.Collections.Generic.List{System.Guid})">
+             <summary>
+             Xóa nhà cung cấp
+             </summary> 
+             <remarks>
+             Sample request:
+            
+                 [
+                     "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                 ]
+             </remarks>
+             <param name="listId">Danh sách Id nhà cung cấp</param>
+             <returns>Danh sách kết quả xóa</returns> 
+             <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.SupplierController.GetListCombobox(System.Int32,System.String)">
+            <summary>
+            Lấy danh sách nhà cung cấp cho combobox
+            </summary> 
+            <param name="count">số bản ghi tối đa</param>
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách nhà cung cấp</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:WebApi.Controllers.UpLoadController.UploadLogo">
+            <summary>
+            Upload file
+            </summary> 
+            <param name="id">File</param>
+            <returns>UrlFile</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:DigitalID.API.NotifyController.GetListNotify(System.Int32,System.String)">
+            <summary>
+            Lấy danh sách thông báo
+            </summary> 
+            <param name="count">số bản ghi tối đa</param>
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách loại sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+        <member name="M:DigitalID.API.NotifyController.UpdateStatus(Domain.Entities.Notification)">
+            <summary>
+            Cập nhật trạng thái thông báo
+            </summary> 
+            <param name="count">số bản ghi tối đa</param>
+            <param name="ts">Từ khóa tìm kiếm</param>
+            <returns>Danh sách loại sản phẩm</returns> 
+            <response code="200">Thành công</response>
+        </member>
+    </members>
+</doc>

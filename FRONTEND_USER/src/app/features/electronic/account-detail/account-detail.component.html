@@ -1,0 +1,930 @@
+
+<section id="page-header" class="about-header">
+    <h2>#aboutyou</h2>
+    <p>Your support by this account make us happy</p>
+</section>
+<div class="container section-p1">
+  <nz-tabset nzType="card">
+    <nz-tab [nzTitle]="titleTemplate">
+      <ng-template #titleTemplate>
+        <i nz-icon nzType="user" nzTheme="outline"></i>
+        <span>Your account information</span>
+      </ng-template>
+      <h3>Your profile</h3>
+      <p>Manage your information to protect your account</p>
+      <nz-divider></nz-divider>
+      <div class="row">
+        <div class="col-lg-2">
+            <div class="row">
+              <div class=" text-center">
+                <nz-avatar [nzSize]="64" nzIcon="user" nzSrc="{{avatar}}"></nz-avatar>
+                <p>{{userInfo.name}}</p>
+                
+              </div>
+            </div>
+        </div>
+        <form class="col-lg-7" [formGroup]="formRegister" (ngSubmit)="submitForm()">
+            <div class="row input-group">
+                <span class="col-md-2">Username</span>
+                <div class="input col-md-10">
+                  <nz-input-group nzSize="large" [nzPrefix]="prefixTemplateUser">
+                    <input formControlName="username"  type="text" nzSize="large" nz-input  />
+                  </nz-input-group>
+                  <ng-template #prefixTemplateUser><i nz-icon nzType="user"></i></ng-template>
+                </div>
+            </div>
+            <div class="row input-group">
+                <span class="col-md-2">Email</span>
+                <div class="input col-md-10">
+                  <nz-input-group nzSize="large"  [nzPrefix]="prefixTemplateMail">
+                    <input formControlName="email" type="email" nz-input  />
+                  </nz-input-group>
+                  <div class="text-danger" *ngIf="formRegister.get('email').invalid && (formRegister.get('email').dirty || formRegister.get('email').touched)">
+                    <div *ngIf="formRegister.get('email').errors.required">Email is required.</div>
+                    <div *ngIf="formRegister.get('email').errors.pattern">Email is invalid</div>
+                  </div>
+                  <ng-template #prefixTemplateMail><i nz-icon nzType="mail"></i></ng-template>
+                </div>
+            </div>
+            <div class="row input-group">
+                <span class="col-md-2">Fullname</span>
+                <div class="input col-md-10">
+                  <nz-input-group nzSize="large"   [nzPrefix]="prefixTemplateName">
+                    <input formControlName="nickname" type="text" nz-input  />
+                  </nz-input-group>
+                  <div class="text-danger" *ngIf="formRegister.get('nickname').invalid && (formRegister.get('nickname').dirty || formRegister.get('nickname').touched)">
+                    <div *ngIf="formRegister.get('nickname').errors.required">Full name is required.</div>
+                  </div>
+                  <ng-template #prefixTemplateName><i nz-icon nzType="info-circle"></i></ng-template>
+                </div>
+            </div>
+            <div class="row input-group">
+                <span class="col-md-2">Phone number</span>
+                <div class="input col-md-10">
+                  <nz-input-group nzSize="large"  [nzPrefix]="prefixTemplatePhone">
+                    <input formControlName="phoneNumber" type="text" nz-input  />
+                  </nz-input-group>
+                  <div class="text-danger" *ngIf="formRegister.get('phoneNumber').invalid && (formRegister.get('phoneNumber').dirty || formRegister.get('phoneNumber').touched)">
+                    <div *ngIf="formRegister.get('phoneNumber').errors.required">Phone number is required.</div>
+                    <div *ngIf="formRegister.get('phoneNumber').errors.pattern">Phone number is invalid</div>
+                  </div>
+                  <ng-template #prefixTemplatePhone><i nz-icon nzType="phone"></i></ng-template>
+                </div>
+            </div>
+            <div class="row">
+              <button class="col" nz-button nzSize="large"   type="submit" nzType="primary">Save</button>
+            </div>
+        </form>
+
+        <div class="col-lg-3 text-center">
+            <span class="mb-1 d-block">Upload your avatar</span>
+            <div class="col-md-12 text-center">
+              <nz-avatar [nzSize]="64" nzIcon="user" nzSrc="{{avatarDisplayUrl}}"></nz-avatar>
+            </div>
+            <nz-upload
+                    [nzShowUploadList]="false"
+                    [nzBeforeUpload]="beforeUpload"
+                    nzMultiple="false"
+                    (nzChange)="handleChange($event)"
+                    [nzAction]="uploadUrl"
+                    [nzHeaders]="{ authorization: 'authorization-text' }"
+                  >
+                    <button nz-button nzSize="large"  class="mt-3" nzType="primary" ><i nz-icon nzType="folder-open" nzTheme="outline"></i> Upload</button>
+                  </nz-upload>
+                  <p>Max size: 2 MB</p>
+                  <p>Types:.JPEG, .PNG</p>
+        </div>
+      </div>
+    </nz-tab>
+    <nz-tab [nzTitle]="titleTemplatePurchase">
+      <ng-template #titleTemplatePurchase>
+        <i nz-icon nzType="shopping" nzTheme="outline"></i>
+        <span>Your purchase</span>
+      </ng-template>
+      <h3>Your purchases</h3>
+      <p>Manage your purchases</p>
+      <nz-divider></nz-divider>
+      <nz-tabset>
+        <nz-tab [nzTitle]="'All purchases'">
+          <div class="mt-3">
+            <nz-tabset>
+              <nz-tab *ngFor="let item of listOrderAll; index as i" [nzTitle]="'Purchase' + (i+1)">
+                <div class="col-md-12">
+                  <nz-card style="width: 100%" [nzTitle]="allTitle">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <div *ngFor="let prod of item.listProducts" class="row mt-3" style="border-bottom: 1px solid #eaeaea">
+                          <div class="col-md-2">
+                            <img [src]="baseFile + prod.attachments[0]" width="100" height="100" alt="Product Image" />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p (click)="viewProdDetail(prod.id)" style="font-weight: bold; cursor: pointer">
+                                  {{ prod.name }}
+                                </p>
+                              </div>
+                              <div class="row">
+                                  <div class="col-md-10">
+                                    <p class="text-muted font-weight-normal font-italic d-block">
+                                      Category:
+                                      <span>{{ prod.categoryString }}</span>
+                                    </p>
+                                  </div>
+                                  <div class="col-md-2">
+                                    <p style="font-weight: bold">x{{ prod.count }}</p>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-2 item-center flex-block">
+                            <h5 class="price-out">{{ prod.price | currency: 'VND' }}</h5>
+                            <h5>{{ prod.price - prod.discount | currency: 'VND' }}</h5>
+                          </div>
+                        </div>
+                        <div class="row mt-3">
+                          <div class="col-md-12 pull-right">
+                            <img class="img-price" src="../../../../assets//images/price.png" alt="" />
+                            Total:
+                            <span style="font-size: 25px" class="text-red">{{ item.grandTotal | currency: 'VND' }}</span>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-12 pull-right">
+                            <button nz-button nzType="primary" nzSize="large" class="mr-3" (click)="rate(item)" [ngClass]="{ 'text-highlight': item.status === 3 ? true : false }"
+                            *ngIf="item.status === 3">Review</button>
+
+                            <button nz-button nzType="primary" nzGhost nzSize="large" class="mr-3" (click)="viewDetailOrder(item) " href="#orderDetail" data-toggle="modal">Detail</button>
+
+                            <button nz-button nzType="primary" nzDanger nzGhost nzSize="large" (click)="buildAgain()" [ngClass]="{ 'text-highlight': item.status === -1 ? true : false }"
+                            *ngIf="item.status === 3 || item.status === -1">Buy again</button>
+                            
+                            <button nz-button nzType="primary" nzDanger nzSize="large" (click)="cancelOrder(item)"  *ngIf="item.status === 0 || (item.status === 1 && item.status !== -1)">Cancel</button>
+                            
+                            <!-- <p-toast></p-toast> -->
+                            <!-- <p-confirmPopup></p-confirmPopup> -->
+                            <!-- <p-button (click)="cancelOrder($event, item)" icon="pi pi-times" styleClass="p-button-danger p-button-sm p-button-outlined" class="me-3" label="Cancel"></p-button> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </nz-card>
+                  <ng-template #allTitle>
+                    <div class="row">
+                      <div class="col-md-2 text-name-order">Order {{ item.code }}</div>
+                      <span class="col-md-10 " style="text-align: right;">
+                        <span *ngIf="item.status === 0" class="text-status">To confirm</span>
+                        <span *ngIf="item.status === 1" class="text-status">To receive</span>
+                        <span *ngIf="item.status === 2" class="text-status">Shipping</span>
+                        <span *ngIf="item.status === 3 || item.status === 5" class="text-status">
+                          <span style="color: black"><i class="fas fa-truck"></i> Shipped </span></span>
+                        
+                        <span *ngIf="item.status === -1" class="text-status">Canceled</span>
+                      </span>
+                    </div>
+                  </ng-template>
+                </div>
+              </nz-tab>
+            </nz-tabset>
+          </div>
+          <div *ngIf="listOrderAll.length ===0 " class="mt-3 d-flex justify-content-center">
+            <img width="100px" height="100px" src="/assets/images/empty-cart.png" alt="">
+          </div>
+        </nz-tab>
+        <nz-tab [nzTitle]="'To confirm'">
+          <div class="mt-3">
+            <nz-tabset>
+              <nz-tab *ngFor="let item of listOrder0; index as i" [nzTitle]="'Purchase' + (i+1)">
+                <div class="col-md-12">
+                  <nz-card style="width: 100%" [nzTitle]="allTitle">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <div *ngFor="let prod of item.listProducts" class="row mt-3" style="border-bottom: 1px solid #eaeaea">
+                          <div class="col-md-2">
+                            <img [src]="baseFile + prod.attachments[0]" width="100" height="100" alt="Product Image" />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p (click)="viewProdDetail(prod.id)" style="font-weight: bold; cursor: pointer">
+                                  {{ prod.name }}
+                                </p>
+                              </div>
+                              <div class="row">
+                                  <div class="col-md-10">
+                                    <p class="text-muted font-weight-normal font-italic d-block">
+                                      Category:
+                                      <span>{{ prod.categoryString }}</span>
+                                    </p>
+                                  </div>
+                                  <div class="col-md-2">
+                                    <p style="font-weight: bold">x{{ prod.count }}</p>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-2 item-center flex-block">
+                            <h5 class="price-out">{{ prod.price | currency: 'VND' }}</h5>
+                            <h5>{{ prod.price - prod.discount | currency: 'VND' }}</h5>
+                          </div>
+                        </div>
+                        <div class="row mt-3">
+                          <div class="col-md-12 pull-right">
+                            <img class="img-price" src="../../../../assets//images/price.png" alt="" />
+                            Total:
+                            <span style="font-size: 25px" class="text-red">{{ item.grandTotal | currency: 'VND' }}</span>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-12 pull-right">
+                            <button nz-button nzType="primary" nzSize="large" class="mr-3"  (click)="rate(item)" [ngClass]="{ 'text-highlight': item.status === 3 ? true : false }"
+                            *ngIf="item.status === 3">Review</button>
+
+                            <button nz-button nzType="primary" nzGhost nzSize="large" class="mr-3" (click)="viewDetailOrder(item) " href="#orderDetail" data-toggle="modal">Detail</button>
+
+                            <button nz-button nzType="primary" nzDanger nzGhost nzSize="large" (click)="buildAgain()" [ngClass]="{ 'text-highlight': item.status === -1 ? true : false }"
+                            *ngIf="item.status === 3 || item.status === -1">Buy again</button>
+                            
+                            <button nz-button nzType="primary" nzDanger nzSize="large" (click)="cancelOrder(item)"  *ngIf="item.status === 0 || (item.status === 1 && item.status !== -1)">Cancel</button>
+                            
+                            <!-- <p-confirmPopup></p-confirmPopup> -->
+                            <!-- <p-button (click)="cancelOrder($event, item)" icon="pi pi-times" styleClass="p-button-danger p-button-sm p-button-outlined" class="me-3" label="Cancel"></p-button> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </nz-card>
+                  <ng-template #allTitle>
+                    <div class="row">
+                      <div class="col-md-2 text-name-order">Order {{ item.code }}</div>
+                      <span class="col-md-10 " style="text-align: right;">
+                        <span *ngIf="item.status === 0" class="text-status">To confirm</span>
+                        <span *ngIf="item.status === 1" class="text-status">To receive</span>
+                        <span *ngIf="item.status === 2" class="text-status">Shipping</span>
+                        <span *ngIf="item.status === 3 || item.status === 5" class="text-status">
+                          <span style="color: black"><i class="fas fa-truck"></i> Shipped |</span> 
+                        </span>
+                        <span *ngIf="item.status === -1" class="text-status">Canceled</span>
+                      </span>
+                    </div>
+                  </ng-template>
+                </div>
+              </nz-tab>
+            </nz-tabset>
+          </div>
+          <div *ngIf="listOrder0.length ===0 " class="mt-3 d-flex justify-content-center">
+            <img width="100px" height="100px" src="/assets/images/empty-cart.png" alt="">
+          </div>
+        </nz-tab>
+        <nz-tab [nzTitle]="'To receive'">
+          <div class="mt-3">
+            <nz-tabset>
+              <nz-tab *ngFor="let item of listOrder1; index as i" [nzTitle]="'Purchase' + (i+1)">
+                <div class="col-md-12">
+                  <nz-card style="width: 100%" [nzTitle]="allTitle">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <div *ngFor="let prod of item.listProducts" class="row mt-3" style="border-bottom: 1px solid #eaeaea">
+                          <div class="col-md-2">
+                            <img [src]="baseFile + prod.attachments[0]" width="100" height="100" alt="Product Image" />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p (click)="viewProdDetail(prod.id)" style="font-weight: bold; cursor: pointer">
+                                  {{ prod.name }}
+                                </p>
+                              </div>
+                              <div class="row">
+                                  <div class="col-md-10">
+                                    <p class="text-muted font-weight-normal font-italic d-block">
+                                      Category:
+                                      <span>{{ prod.categoryString }}</span>
+                                    </p>
+                                  </div>
+                                  <div class="col-md-2">
+                                    <p style="font-weight: bold">x{{ prod.count }}</p>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-2 item-center flex-block">
+                            <h5 class="price-out">{{ prod.price | currency: 'VND' }}</h5>
+                            <h5>{{ prod.price - prod.discount | currency: 'VND' }}</h5>
+                          </div>
+                        </div>
+                        <div class="row mt-3">
+                          <div class="col-md-12 pull-right">
+                            <img class="img-price" src="../../../../assets//images/price.png" alt="" />
+                            Total:
+                            <span style="font-size: 25px" class="text-red">{{ item.grandTotal | currency: 'VND' }}</span>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-12 pull-right">
+                            <button nz-button nzType="primary" nzSize="large" class="mr-3"  (click)="rate(item)" [ngClass]="{ 'text-highlight': item.status === 3 ? true : false }"
+                            *ngIf="item.status === 3">Review</button>
+
+                            <button nz-button nzType="primary" nzGhost nzSize="large" class="mr-3" (click)="viewDetailOrder(item) " href="#orderDetail" data-toggle="modal">Detail</button>
+
+                            <button nz-button nzType="primary" nzDanger nzGhost nzSize="large" (click)="buildAgain()" [ngClass]="{ 'text-highlight': item.status === -1 ? true : false }"
+                            *ngIf="item.status === 3 || item.status === -1">Buy again</button>
+                            
+                            <button nz-button nzType="primary" nzDanger nzSize="large" (click)="cancelOrder(item)"  *ngIf="item.status === 0 || (item.status === 1 && item.status !== -1)">Cancel</button>
+                            
+                            <!-- <p-confirmPopup></p-confirmPopup> -->
+                            <!-- <p-button (click)="cancelOrder($event, item)" icon="pi pi-times" styleClass="p-button-danger p-button-sm p-button-outlined" class="me-3" label="Cancel"></p-button> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </nz-card>
+                  <ng-template #allTitle>
+                    <div class="row">
+                      <div class="col-md-2 text-name-order">Order {{ item.code }}</div>
+                      <span class="col-md-10 " style="text-align: right;">
+                        <span *ngIf="item.status === 0" class="text-status">To confirm</span>
+                        <span *ngIf="item.status === 1" class="text-status">To receive</span>
+                        <span *ngIf="item.status === 2" class="text-status">Shipping</span>
+                        <span *ngIf="item.status === 3 || item.status === 5" class="text-status">
+                          <span style="color: black"><i class="fas fa-truck"></i> Shipped </span>
+                        </span>
+                        <span *ngIf="item.status === -1" class="text-status">Canceled</span>
+                      </span>
+                    </div>
+                  </ng-template>
+                </div>
+              </nz-tab>
+            </nz-tabset>
+          </div>
+          <div *ngIf="listOrder1.length ===0 " class="mt-3 d-flex justify-content-center">
+            <img width="100px" height="100px" src="/assets/images/empty-cart.png" alt="">
+          </div>
+        </nz-tab>
+        <nz-tab [nzTitle]="'Shipping'">
+          <div class="mt-3">
+            <nz-tabset>
+              <nz-tab *ngFor="let item of listOrder2; index as i" [nzTitle]="'Purchase' + (i+1)">
+                <div class="col-md-12">
+                  <nz-card style="width: 100%" [nzTitle]="allTitle">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <div *ngFor="let prod of item.listProducts" class="row mt-3" style="border-bottom: 1px solid #eaeaea">
+                          <div class="col-md-2">
+                            <img [src]="baseFile + prod.attachments[0]" width="100" height="100" alt="Product Image" />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p (click)="viewProdDetail(prod.id)" style="font-weight: bold; cursor: pointer">
+                                  {{ prod.name }}
+                                </p>
+                              </div>
+                              <div class="row">
+                                  <div class="col-md-10">
+                                    <p class="text-muted font-weight-normal font-italic d-block">
+                                      Category:
+                                      <span>{{ prod.categoryString }}</span>
+                                    </p>
+                                  </div>
+                                  <div class="col-md-2">
+                                    <p style="font-weight: bold">x{{ prod.count }}</p>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-2 item-center flex-block">
+                            <h5 class="price-out">{{ prod.price | currency: 'VND' }}</h5>
+                            <h5>{{ prod.price - prod.discount | currency: 'VND' }}</h5>
+                          </div>
+                        </div>
+                        <div class="row mt-3">
+                          <div class="col-md-12 pull-right">
+                            <img class="img-price" src="../../../../assets//images/price.png" alt="" />
+                            Total:
+                            <span style="font-size: 25px" class="text-red">{{ item.grandTotal | currency: 'VND' }}</span>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-12 pull-right">
+                            <button nz-button nzType="primary" nzSize="large" class="mr-3"  (click)="rate(item)" [ngClass]="{ 'text-highlight': item.status === 3 ? true : false }"
+                            *ngIf="item.status === 3">Review</button>
+
+                            <button nz-button nzType="primary" nzGhost nzSize="large" class="mr-3" (click)="viewDetailOrder(item) " href="#orderDetail" data-toggle="modal">Detail</button>
+
+                            <button nz-button nzType="primary" nzDanger nzGhost nzSize="large" (click)="buildAgain()" [ngClass]="{ 'text-highlight': item.status === -1 ? true : false }"
+                            *ngIf="item.status === 3 || item.status === -1">Buy again</button>
+                            
+                            <button nz-button nzType="primary" nzDanger nzSize="large" (click)="cancelOrder(item)"  *ngIf="item.status === 0 || (item.status === 1 && item.status !== -1)">Cancel</button>
+                            
+                            <!-- <p-confirmPopup></p-confirmPopup> -->
+                            <!-- <p-button (click)="cancelOrder($event, item)" icon="pi pi-times" styleClass="p-button-danger p-button-sm p-button-outlined" class="me-3" label="Cancel"></p-button> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </nz-card>
+                  <ng-template #allTitle>
+                    <div class="row">
+                      <div class="col-md-2 text-name-order">Order {{ item.code }}</div>
+                      <span class="col-md-10 " style="text-align: right;">
+                        <span *ngIf="item.status === 0" class="text-status">To confirm</span>
+                        <span *ngIf="item.status === 1" class="text-status">To receive</span>
+                        <span *ngIf="item.status === 2" class="text-status">Shipping</span>
+                        <span *ngIf="item.status === 3 || item.status === 5" class="text-status">
+                          <span style="color: black"><i class="fas fa-truck"></i> Shipped </span> 
+                        </span>
+                        <span *ngIf="item.status === -1" class="text-status">Canceled</span>
+                      </span>
+                    </div>
+                  </ng-template>
+                </div>
+              </nz-tab>
+            </nz-tabset>
+          </div>
+          <div *ngIf="listOrder2.length ===0 " class="mt-3 d-flex justify-content-center">
+            <img width="100px" height="100px" src="/assets/images/empty-cart.png" alt="">
+          </div>
+        </nz-tab>
+        <nz-tab [nzTitle]="'Shipped'">
+          <div class="mt-3">
+            <nz-tabset>
+              <nz-tab *ngFor="let item of listOrder3; index as i" [nzTitle]="'Purchase' + (i+1)">
+                <div class="col-md-12">
+                  <nz-card style="width: 100%" [nzTitle]="allTitle">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <div *ngFor="let prod of item.listProducts" class="row mt-3" style="border-bottom: 1px solid #eaeaea">
+                          <div class="col-md-2">
+                            <img [src]="baseFile + prod.attachments[0]" width="100" height="100" alt="Product Image" />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p (click)="viewProdDetail(prod.id)" style="font-weight: bold; cursor: pointer">
+                                  {{ prod.name }}
+                                </p>
+                              </div>
+                              <div class="row">
+                                  <div class="col-md-10">
+                                    <p class="text-muted font-weight-normal font-italic d-block">
+                                      Category:
+                                      <span>{{ prod.categoryString }}</span>
+                                    </p>
+                                  </div>
+                                  <div class="col-md-2">
+                                    <p style="font-weight: bold">x{{ prod.count }}</p>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-2 item-center flex-block">
+                            <h5 class="price-out">{{ prod.price | currency: 'VND' }}</h5>
+                            <h5>{{ prod.price - prod.discount | currency: 'VND' }}</h5>
+                          </div>
+                        </div>
+                        <div class="row mt-3">
+                          <div class="col-md-12 pull-right">
+                            <img class="img-price" src="../../../../assets//images/price.png" alt="" />
+                            Total:
+                            <span style="font-size: 25px" class="text-red">{{ item.grandTotal | currency: 'VND' }}</span>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-12 pull-right">
+                            <button nz-button nzType="primary" nzSize="large" class="mr-3"  (click)="rate(item)" [ngClass]="{ 'text-highlight': item.status === 3 ? true : false }"
+                            *ngIf="item.status === 3">Review</button>
+
+                            <button nz-button nzType="primary" nzGhost nzSize="large" class="mr-3" (click)="viewDetailOrder(item) " href="#orderDetail" data-toggle="modal">Detail</button>
+
+                            <button nz-button nzType="primary" nzDanger nzGhost nzSize="large" (click)="buildAgain()" [ngClass]="{ 'text-highlight': item.status === -1 ? true : false }"
+                            *ngIf="item.status === 3 || item.status === -1">Buy again</button>
+                            
+                            <button nz-button nzType="primary" nzDanger nzSize="large" (click)="cancelOrder(item)"  *ngIf="item.status === 0 || (item.status === 1 && item.status !== -1)">Cancel</button>
+                            
+                            <!-- <p-confirmPopup></p-confirmPopup> -->
+                            <!-- <p-button (click)="cancelOrder($event, item)" icon="pi pi-times" styleClass="p-button-danger p-button-sm p-button-outlined" class="me-3" label="Cancel"></p-button> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </nz-card>
+                  <ng-template #allTitle>
+                    <div class="row">
+                      <div class="col-md-2 text-name-order">Order {{ item.code }}</div>
+                      <span class="col-md-10 " style="text-align: right;">
+                        <span *ngIf="item.status === 0" class="text-status">To confirm</span>
+                        <span *ngIf="item.status === 1" class="text-status">To receive</span>
+                        <span *ngIf="item.status === 2" class="text-status">Shipping</span>
+                        <span *ngIf="item.status === 3 || item.status === 5" class="text-status">
+                          <span style="color: black"><i class="fas fa-truck"></i> Shipped </span> 
+                        </span>
+                        <span *ngIf="item.status === -1" class="text-status">Canceled</span>
+                      </span>
+                    </div>
+                  </ng-template>
+                </div>
+              </nz-tab>
+            </nz-tabset>
+          </div>
+          <div *ngIf="listOrder3.length ===0 " class="mt-3 d-flex justify-content-center">
+            <img width="100px" height="100px" src="/assets/images/empty-cart.png" alt="">
+          </div>
+        </nz-tab>
+        <nz-tab [nzTitle]="'Canceled'">
+          <div class="mt-3">
+            <nz-tabset>
+              <nz-tab *ngFor="let item of listOrder_1; index as i" [nzTitle]="'Purchase' + (i+1)">
+                <div class="col-md-12">
+                  <nz-card style="width: 100%" [nzTitle]="allTitle">
+                    <div class="row">
+                      <div class="col-md-12">
+                        <div *ngFor="let prod of item.listProducts" class="row mt-3" style="border-bottom: 1px solid #eaeaea">
+                          <div class="col-md-2">
+                            <img [src]="baseFile + prod.attachments[0]" width="100" height="100" alt="Product Image" />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <p (click)="viewProdDetail(prod.id)" style="font-weight: bold; cursor: pointer">
+                                  {{ prod.name }}
+                                </p>
+                              </div>
+                              <div class="row">
+                                  <div class="col-md-10">
+                                    <p class="text-muted font-weight-normal font-italic d-block">
+                                      Category:
+                                      <span>{{ prod.categoryString }}</span>
+                                    </p>
+                                  </div>
+                                  <div class="col-md-2">
+                                    <p style="font-weight: bold">x{{ prod.count }}</p>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-2 item-center flex-block">
+                            <h5 class="price-out">{{ prod.price | currency: 'VND' }}</h5>
+                            <h5>{{ prod.price - prod.discount | currency: 'VND' }}</h5>
+                          </div>
+                        </div>
+                        <div class="row mt-3">
+                          <div class="col-md-12 pull-right">
+                            <img class="img-price" src="../../../../assets//images/price.png" alt="" />
+                            Total:
+                            <span style="font-size: 25px" class="text-red">{{ item.grandTotal | currency: 'VND' }}</span>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-md-12 pull-right">
+                            <button nz-button nzType="primary" nzSize="large" class="mr-3"  (click)="rate(item)" [ngClass]="{ 'text-highlight': item.status === 3 ? true : false }"
+                            *ngIf="item.status === 3">Review</button>
+
+                            <button nz-button nzType="primary" nzGhost nzSize="large" class="mr-3" (click)="viewDetailOrder(item) " href="#orderDetail" data-toggle="modal">Detail</button>
+
+                            <button nz-button nzType="primary" nzDanger nzGhost nzSize="large" (click)="buildAgain()" [ngClass]="{ 'text-highlight': item.status === -1 ? true : false }"
+                            *ngIf="item.status === 3 || item.status === -1">Buy again</button>
+                            
+                            <button nz-button nzType="primary" nzDanger nzSize="large" (click)="cancelOrder(item)"  *ngIf="item.status === 0 || (item.status === 1 && item.status !== -1)">Cancel</button>
+                            
+                            <!-- <p-confirmPopup></p-confirmPopup> -->
+                            <!-- <p-button (click)="cancelOrder($event, item)" icon="pi pi-times" styleClass="p-button-danger p-button-sm p-button-outlined" class="me-3" label="Cancel"></p-button> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </nz-card>
+                  <ng-template #allTitle>
+                    <div class="row">
+                      <div class="col-md-2 text-name-order">Order {{ item.code }}</div>
+                      <span class="col-md-10 " style="text-align: right;">
+                        <span *ngIf="item.status === 0" class="text-status">To confirm</span>
+                        <span *ngIf="item.status === 1" class="text-status">To receive</span>
+                        <span *ngIf="item.status === 2" class="text-status">Shipping</span>
+                        <span *ngIf="item.status === 3 || item.status === 5" class="text-status">
+                          <span style="color: black"><i class="fas fa-truck"></i> Shipped </span> 
+                        </span>
+                        <span *ngIf="item.status === -1" class="text-status">Canceled</span>
+                      </span>
+                    </div>
+                  </ng-template>
+                </div>
+              </nz-tab>
+            </nz-tabset>
+          </div>
+          <div *ngIf="listOrder_1.length ===0 " class="mt-3 d-flex justify-content-center">
+            <img width="100px" height="100px" src="/assets/images/empty-cart.png" alt="">
+          </div>
+        </nz-tab>
+      </nz-tabset>
+    </nz-tab>
+    <nz-tab [nzTitle]="titleTemplatePassword">
+      <ng-template #titleTemplatePassword>
+        <i nz-icon nzType="key" nzTheme="outline"></i>
+        <span>Change password</span>
+      </ng-template>
+      <h3>Change your password</h3>
+      <p>Never share your password with anyone else!</p>
+      <nz-divider></nz-divider>
+      <div class=" d-flex justify-content-center">
+        <form nz-form [formGroup]="formChangePassword" (ngSubmit)="save()">
+          <nz-form-item>
+            <nz-form-label [nzSm]="7" [nzXs]="24" nzRequired nzFor="oldPassword">Old password </nz-form-label>
+            <nz-form-control [nzSm]="16" [nzXs]="24" nzHasFeedback [nzErrorTip]="validateOldPassword">
+              <nz-input-group [nzSuffix]="oldPasswordSubfix">
+                <input
+                  formControlName="oldPassword"
+                  id="oldPassword"
+                  [type]="passwordVisible ? 'text' : 'password'"
+                  nz-input
+                  placeholder="Enter your old password"
+                />
+              </nz-input-group>
+              <ng-template #oldPasswordSubfix>
+                <i
+                  nz-icon
+                  [nzType]="passwordVisible ? 'eye-invisible' : 'eye'"
+                  (click)="passwordVisible = !passwordVisible"
+                ></i>
+              </ng-template>
+              <ng-template #validateOldPassword let-control>
+                <ng-container *ngIf="control.hasError('minlength')"> At least 6 characters</ng-container>
+                <ng-container *ngIf="control.hasError('required')"> Required field. </ng-container>
+                <ng-container *ngIf="control.hasError('invalidPw')"> Ola password is not correct. </ng-container>
+              </ng-template>
+            </nz-form-control>
+          </nz-form-item>
+
+          <nz-form-item>
+            <nz-form-label [nzSm]="7" [nzXs]="24" nzRequired nzFor="newPassword">New password</nz-form-label>
+            <nz-form-control [nzSm]="16" [nzXs]="24" nzHasFeedback >
+              <nz-input-group [nzSuffix]="newPasswordSubfix">
+                <input
+                  formControlName="newPassword"
+                  id="newPassword"
+                  [type]="newPasswordVisible ? 'text' : 'password'"
+                  nz-input
+                  placeholder="Enter your new password"
+                />
+              </nz-input-group>
+              <div class="text-danger" *ngIf="formChangePassword.get('newPassword').invalid && (formChangePassword.get('newPassword').dirty || formChangePassword.get('newPassword').touched)">
+                <div *ngIf="formChangePassword.get('newPassword').errors.required">New password is required.</div>
+                <div *ngIf="formChangePassword.get('newPassword').errors.minlength">New password must be at least 8 characters long.</div>
+                <div *ngIf="formChangePassword.get('newPassword').errors.pattern">New password must contain at least one uppercase letter, one lowercase letter, and one digit.</div>
+              </div>
+              <ng-template #newPasswordSubfix>
+                <i
+                  nz-icon
+                  [nzType]="newPasswordVisible ? 'eye-invisible' : 'eye'"
+                  (click)="newPasswordVisible = !newPasswordVisible"
+                ></i>
+              </ng-template>
+              <!-- <ng-template #validateNewPassword let-control>
+                <ng-container *ngIf="control.hasError('minlength')"> At least 6 characters.</ng-container>
+                <ng-container *ngIf="control.hasError('required')"> Required field. </ng-container>
+              </ng-template> -->
+            </nz-form-control>
+          </nz-form-item>
+
+          <nz-form-item>
+            <nz-form-label [nzSm]="7" [nzXs]="24" nzRequired nzFor="confirmPassword">Confirm password </nz-form-label>
+            <nz-form-control [nzSm]="16" [nzXs]="24" nzHasFeedback [nzErrorTip]="validateConfirmPassword">
+              <nz-input-group [nzSuffix]="confirmPasswordSubfix">
+                <input
+                  (ngModelChange)="checkConfirmPassword()"
+                  formControlName="confirmPassword"
+                  id="oldPassword"
+                  [type]="confirmPasswordVisible ? 'text' : 'password'"
+                  nz-input
+                  placeholder="Enter confirm password"
+                />
+              </nz-input-group>
+              <ng-template #confirmPasswordSubfix>
+                <i
+                  nz-icon
+                  [nzType]="confirmPasswordVisible ? 'eye-invisible' : 'eye'"
+                  (click)="confirmPasswordVisible = !confirmPasswordVisible"
+                ></i>
+              </ng-template>
+              <ng-template #validateConfirmPassword let-control>
+                <ng-container *ngIf="control.hasError('minlength')"> At least 6 characters.</ng-container>
+                <ng-container *ngIf="control.hasError('required')"> Required field. </ng-container>
+                <ng-container *ngIf="control.hasError('invalidConfirmPw')"> Confirm password is not correct.</ng-container>
+              </ng-template>
+            </nz-form-control>
+          </nz-form-item>
+          <nz-form-item>
+            <nz-form-control class="item-center" [nzSm]="24" [nzXs]="24">
+              <button nz-button nzType="primary" [disabled]="formChangePassword.invalid" (click)="save()" class="btn-primary">
+                <i nz-icon nzType="save" nzTheme="fill"></i>Change password
+              </button>
+            </nz-form-control>
+          </nz-form-item>
+        </form>
+      </div>
+    </nz-tab>
+  </nz-tabset>
+</div>
+
+<!-- Sign in / Register Modal -->
+<div
+  class="modal fade"
+  id="orderDetail"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-body p-5">
+        <button
+          type="button"
+          class="close"
+          data-dismiss="modal"
+          aria-label="Close"
+        >
+          <span aria-hidden="true"><i class="icon-close"></i></span>
+        </button>
+
+        <h3>Order detail</h3>
+               
+        <div *ngIf="viewDetail === true">
+          <nz-card [nzTitle]="detailTitle">
+            <ng-template #detailTitle>
+              <div class="row">
+                <div class="col-md-12 text-start">
+                  <div *ngIf="itemDetail.status === 0" class="text-status">
+                    <span style="color: black">Order {{ itemDetail.code }}</span> | To confirm
+                  </div>
+                  <div *ngIf="itemDetail.status === 1" class="text-status">
+                    <span style="color: black">Order {{ itemDetail.code }}</span> | To receive
+                  </div>
+                  <div *ngIf="itemDetail.status === 2" class="text-status">
+                    <span style="color: black">Order {{ itemDetail.code }}</span> | Shipping
+                  </div>
+                  <div *ngIf="itemDetail.status === 3" class="text-status">
+                    <span style="color: black"
+                      ><i class="fas fa-truck"></i><span style="color: black">Order {{ itemDetail.code }}</span> | Shipped |</span
+                    >
+                    Đã giao hàng
+                  </div>
+                  <div *ngIf="itemDetail.status === -1" class="text-status">
+                    <span style="color: black">Order {{ itemDetail.code }}</span> | Canceled
+                  </div>
+                </div>
+              </div>
+            </ng-template>
+            
+            <div class="row">
+                <div class="col-md-12">
+                    <h4>Address to shipping</h4>
+                    <table class="table table-striped mt-3" >
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Detail</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            <tr >
+                                <td>
+                                    Customer name
+                                </td>
+                                <td>
+                                    {{ itemDetail.name }}
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    Phone Number
+                                </td>
+                                <td>
+                                    {{ itemDetail.phoneNumber }}
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    Address details
+                                </td>
+                                <td>
+                                    {{ itemDetail.addressDetail }}
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    Commune
+                                </td>
+                                <td>
+                                    {{ itemDetail.commune }}
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    District
+                                </td>
+                                <td>
+                                    {{ itemDetail.district }}
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    City
+                                </td>
+                                <td>
+                                    {{ itemDetail.city }}
+                                </td>
+                            </tr>
+                            
+                        </tbody>
+                    </table><!-- End .table table-summary -->
+                </div>
+                <div class="col-md-12">
+                    <h4>Products</h4>
+
+                    <table class="table mt-3 table-striped" >
+                        <thead>
+                            <tr>
+                                <th>Image</th>
+                                <th>Detail</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            <tr *ngFor="let prod of itemDetail.listProducts" >
+                                <td>
+                                    <img [src]="baseFile + prod.attachments[0]" width="80" height="80" alt="Product Image" />
+                                </td>
+                                <td>
+                                   <a href="javascript:void(0)" (click)="viewProdDetail(prod.id)" class="d-block">{{prod.name}}</a>
+                                   <span class="d-block m-1"><b>Type: </b><span>{{ prod.categoryString }}</span></span>
+                                    <span class="d-block m-1"><b>Size: </b><span>{{prod.productColors[0].name}}</span></span>
+                                   <span class="d-block m-1"><b>Quantity: </b><span>{{ prod.count }}</span></span>
+
+                                </td>
+                            </tr>
+                            
+                        </tbody>
+                    </table><!-- End .table table-summary -->
+                </div>
+                <div class="col-md-12">
+                    <h4>Prices</h4>
+
+                    <table class="table table-striped mt-3" >
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Detail</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            <tr >
+                                <td>
+                                    Product's prices
+                                </td>
+                                <td>
+                                    {{ itemDetail.grandTotal | currency: 'VND' | lowercase }}
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    Ship fee
+                                </td>
+                                <td>
+                                    Free
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    Total pay
+                                </td>
+                                <td>
+                                    {{itemDetail.grandTotal | currency: 'VND' | lowercase}}
+                                </td>
+                            </tr>
+                            <tr >
+                                <td>
+                                    Payment
+                                </td>
+                                <td>
+                                    {{itemDetail.phuongThucThanhToan === 0 ? 'Pay when ship' : 'Payment by napas'}}
+                                </td>
+                            </tr>
+                            
+                            
+                        </tbody>
+                    </table><!-- End .table table-summary -->
+                </div>
+            </div>
+          </nz-card>
+          
+        </div>
+      </div>
+      <!-- End .modal-body -->
+    </div>
+    <!-- End .modal-content -->
+  </div>
+  <!-- End .modal-dialog -->
+</div>
+<!-- End .modal -->

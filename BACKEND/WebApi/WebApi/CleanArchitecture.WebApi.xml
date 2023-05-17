@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.v1.DocumentController.Post(Application.Features.Documents.Commands.CreateDocment.CreateDocumentCommand)">
+            <summary>
+            Thêm mới hồ sơ nội bộ
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
